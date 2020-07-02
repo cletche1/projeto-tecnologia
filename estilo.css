@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    align-items: stretch;
+  
+  }
+  
+  .flex-container>
+  div {
+      background-color: crimson;
+    width: 50px;
+    margin: 5px;
+    text-align: center;
+    line-height: 15px;
+    font-size: 15px;
+  }
+  h6{
+    display: inline;
+    flex-direction: column;
+    background-color: mediumblue;
+    
+  }
